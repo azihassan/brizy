@@ -1,0 +1,14 @@
+{
+    "name": "salvatore/brizy",
+    "description": "Debugging the CI's Session class",
+    "type": "project",
+    "require": {
+        "bcit-ci/codeigniter": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Scroph",
+            "email": "azi.hassan@live.fr"
+        }
+    ]
+}
